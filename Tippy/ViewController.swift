@@ -10,8 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //initialize
     @IBOutlet weak var totalLabel: UILabel!
-    
     @IBOutlet weak var tipControl: UISegmentedControl!
     @IBOutlet weak var billField: UITextField!
     @IBOutlet weak var tipLabel: UILabel!
@@ -19,6 +19,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        //self.view.backgroundColor = UIColor.blue  //background color
     }
 
     override func didReceiveMemoryWarning() {
@@ -39,10 +41,10 @@ class ViewController: UIViewController {
         let bill = Double(billField.text!) ?? 0 //parse text to type double, change to nil
         let tip = bill * tipPercentages[tipControl.selectedSegmentIndex]
         
-        let total = bill + tip
+        let total = bill + tip  //calculate total amount
         
-        tipLabel.text = String(format: "$%.2f", tip)
-        totalLabel.text = String(format: "$%.2f", total)
+        tipLabel.text = String(format: "$%.2f", tip) //set tip
+        totalLabel.text = String(format: "$%.2f", total) //set total
     }
 }
 

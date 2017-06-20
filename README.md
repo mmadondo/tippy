@@ -1,6 +1,6 @@
-# Project 1 - *Name of App Here*
+# Project 1 - Tip Calculator
 
-**Name of your app** is a tip calculator application for iOS.
+Tippy is a tip calculator application for iOS.
 
 Submitted by: Malvern Madondo
 
@@ -29,11 +29,15 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap](http://imgur.com/a/xx7yq)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app:
+
+** Using the command line to access GIT. This was later explained fully in class and was able to work around it with no issues. 
+** Connecting constants to app, resolved by asking colleague and facilitator and learning how to ensure the control + drag properly works
+
 
 ## Credits
 

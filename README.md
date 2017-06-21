@@ -23,13 +23,15 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
+** Added option to split total cost among any number of people. Show user amount each person pays.
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=http://i.imgur.com/wT1mOhz.gif title='Tip Calculator' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap] ![alt text](http://imgur.com/a/xx7yq)
+GIF created with [LiceCap] 
 
 ## Notes
 

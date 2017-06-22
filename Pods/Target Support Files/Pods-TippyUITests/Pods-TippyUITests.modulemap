@@ -1,0 +1,6 @@
+framework module Pods_TippyUITests {
+  umbrella header "Pods-TippyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

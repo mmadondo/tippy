@@ -1,16 +1,16 @@
-# Project 1 - Tip Calculator
+# Tip Calculator
 
-Tippy is a tip calculator application for iOS.
+Tippy is a tip calculator iOS application.
 
 Submitted by: Malvern Madondo
 
-Time spent: 3.5 hours spent in total
+Time spent: 1.5 hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -21,9 +21,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
-
-** Added option to split total cost among any number of people. Show user amount each person pays.
+* [x]  List anything else that you can get done to improve the app functionality!
+* [x] Changed fonts and colors
+* [x] Added option to split total cost among any number of people. Show user amount each person pays.
 
 ## Video Walkthrough
 
@@ -37,9 +37,11 @@ GIF created with [LiceCap]
 
 Challenges encountered while building the app:
 
-** Using the command line to access GIT. This was later explained fully in class and was able to work around it with no issues. 
+When I did this over the summer, I encountered these challenges:
+** Using the command line to access GIT. This was later explained fully in class and was able to work around it with no issues.
 ** Connecting constants to app, resolved by asking colleague and facilitator and learning how to ensure the control + drag properly works
 
+When I revised this for TPM application, I had no challenges!
 
 ## Credits
 
@@ -49,7 +51,7 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2017] [Malvern Madondo]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

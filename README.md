@@ -4,7 +4,7 @@ Tippy is a tip calculator iOS application.
 
 Submitted by: Malvern Madondo
 
-Time spent: 1.5 hours spent in total
+Time spent: 3.5 hours spent in total
 
 ## User Stories
 
@@ -13,7 +13,7 @@ The following **required** functionality is complete:
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
+* [x] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x]  List anything else that you can get done to improve the app functionality!
+List anything else that you can get done to improve the app functionality!
 * [x] Changed fonts and colors
 * [x] Added option to split total cost among any number of people. Show user amount each person pays.
 
@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/Ah0proK.gif' title='Tip Calculator Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/Ah0proK.gif?1' title='Tip Calculator Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap] 
 

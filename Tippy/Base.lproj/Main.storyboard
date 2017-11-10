@@ -93,7 +93,9 @@
                                 <rect key="frame" x="123" y="452" width="111" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="Split Cost"/>
+                                <state key="normal" title="Split Cost">
+                                    <color key="titleColor" red="1" green="0.73866240772149849" blue="0.059181072100707333" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
                                 <connections>
                                     <action selector="btnSplitCost:" destination="BYZ-38-t0r" eventType="touchDown" id="0r4-T4-7Ef"/>
                                 </connections>

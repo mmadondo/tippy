@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "0ZS-iO-RnI"; */
+"0ZS-iO-RnI.text" = "0.00";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "9uJ-wc-hvu"; */
+"9uJ-wc-hvu.text" = "0.00";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "CjD-M3-aCa"; */
+"CjD-M3-aCa.text" = "1";
+
+/* Class = "UISegmentedControl"; Eh4-fh-taS.segmentTitles[0] = "USD"; ObjectID = "Eh4-fh-taS"; */
+"Eh4-fh-taS.segmentTitles[0]" = "USD";
+
+/* Class = "UISegmentedControl"; Eh4-fh-taS.segmentTitles[1] = "EURO"; ObjectID = "Eh4-fh-taS"; */
+"Eh4-fh-taS.segmentTitles[1]" = "EURO";
+
+/* Class = "UIButton"; normalTitle = "Split Cost"; ObjectID = "ElP-KB-ub0"; */
+"ElP-KB-ub0.normalTitle" = "Split Cost";
+
+/* Class = "UISegmentedControl"; NaD-G4-Hfp.segmentTitles[0] = "USD"; ObjectID = "NaD-G4-Hfp"; */
+"NaD-G4-Hfp.segmentTitles[0]" = "USD";
+
+/* Class = "UISegmentedControl"; NaD-G4-Hfp.segmentTitles[1] = "EURO"; ObjectID = "NaD-G4-Hfp"; */
+"NaD-G4-Hfp.segmentTitles[1]" = "EURO";
+
+/* Class = "UISegmentedControl"; P7v-04-K4F.segmentTitles[0] = "10%"; ObjectID = "P7v-04-K4F"; */
+"P7v-04-K4F.segmentTitles[0]" = "10%";
+
+/* Class = "UISegmentedControl"; P7v-04-K4F.segmentTitles[1] = "20%"; ObjectID = "P7v-04-K4F"; */
+"P7v-04-K4F.segmentTitles[1]" = "20%";
+
+/* Class = "UISegmentedControl"; P7v-04-K4F.segmentTitles[2] = "25%"; ObjectID = "P7v-04-K4F"; */
+"P7v-04-K4F.segmentTitles[2]" = "25%";
+
+/* Class = "UILabel"; text = "Number of People"; ObjectID = "STw-xn-SJK"; */
+"STw-xn-SJK.text" = "Number of People";
+
+/* Class = "UILabel"; text = "Currency"; ObjectID = "Wx2-fD-lMH"; */
+"Wx2-fD-lMH.text" = "Currency";
+
+/* Class = "UILabel"; text = "You pay:"; ObjectID = "Yqc-6D-h1Q"; */
+"Yqc-6D-h1Q.text" = "You pay:";
+
+/* Class = "UILabel"; text = "Tip"; ObjectID = "dg7-DA-5pq"; */
+"dg7-DA-5pq.text" = "Tip";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "e00-A7-JLc"; */
+"e00-A7-JLc.text" = "0.00";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "gRh-EA-CNe"; */
+"gRh-EA-CNe.title" = "Settings";
+
+/* Class = "UILabel"; text = "Bill"; ObjectID = "hf3-Yu-J7T"; */
+"hf3-Yu-J7T.text" = "Bill";
+
+/* Class = "UINavigationItem"; title = "Tip Calculator"; ObjectID = "n40-ge-1vX"; */
+"n40-ge-1vX.title" = "Tip Calculator";
+
+/* Class = "UISegmentedControl"; ncR-D4-ykH.segmentTitles[0] = "10%"; ObjectID = "ncR-D4-ykH"; */
+"ncR-D4-ykH.segmentTitles[0]" = "10%";
+
+/* Class = "UISegmentedControl"; ncR-D4-ykH.segmentTitles[1] = "20%"; ObjectID = "ncR-D4-ykH"; */
+"ncR-D4-ykH.segmentTitles[1]" = "20%";
+
+/* Class = "UISegmentedControl"; ncR-D4-ykH.segmentTitles[2] = "25%"; ObjectID = "ncR-D4-ykH"; */
+"ncR-D4-ykH.segmentTitles[2]" = "25%";
+
+/* Class = "UILabel"; text = "Tip Percentage"; ObjectID = "noW-Ml-mfS"; */
+"noW-Ml-mfS.text" = "Tip Percentage";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "rNG-1v-g6q"; */
+"rNG-1v-g6q.text" = "Total";

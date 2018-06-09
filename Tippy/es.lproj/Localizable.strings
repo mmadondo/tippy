@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Tippy
+
+  Created by Malvern Madondo on 6/8/18.
+  Copyright © 2018 Malvern Madondo. All rights reserved.
+*/
+
+
+"Settings" = "Configuraciones";
+"Tip Calculator" = "Calculadora de propinas";
+"Bill" = "Cuenta";
+"Tip" = "Propina";
+"Total" = "Total";
+"Number of People" = "Número de personas";
+"You Pay" = "Tu pagas";
+"Tip Percentage" = "Porcentaje de propinas";
+"Currency" = "Moneda";

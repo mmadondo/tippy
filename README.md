@@ -31,6 +31,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/Ah0proK.gif?1' title='Tip Calculator Walkthrough' width='' alt='Video Walkthrough' />
 
+Recent
+<img src='https://imgur.com/Wa94SJs.gif?1' title='Tip Calculator Walkthrough' width='' alt='Video Walkthrough' />
+
 GIF created with [LiceCap] 
 
 ## Notes

@@ -18,13 +18,24 @@ class ViewController: UIViewController {
     @IBOutlet weak var numPeopleSplit: UITextField!
     @IBOutlet weak var numPeopleLabel: UILabel!
     @IBOutlet weak var tipLabel: UILabel!
+    @IBOutlet weak var tipLabelTitle: UILabel!
+    @IBOutlet weak var totalLabelTitle: UILabel!
+    @IBOutlet weak var youPayLabelTitle: UILabel!
+    @IBOutlet weak var numPeopleLabelTitle: UILabel!
+    @IBOutlet weak var billLabelTitle: UILabel!
     
-
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
         self.view.backgroundColor = UIColor.orange  //background color
+    }
+    
+    func updateUI() {
+        totalLabelTitle.attributedText = NSAttributedString(string: NSLocalizedString("Total", comment: "This is the total amnt"), attributes: [NSForegroundColorAttributeName: UIColor.white])
+        youPayLabelTitle.attributedText = NSAttributedString(string: NSLocalizedString("You Pay", comment: "Amnt you pay"), attributes: [NSForegroundColorAttributeName: UIColor.white])
+        numPeopleLabel.attributedText = NSAttributedString(string: NSLocalizedString("Number of People", comment: "Number of People"), attributes: [NSForegroundColorAttributeName: UIColor.white])
+        billLabelTitle.attributedText = NSAttributedString(string: NSLocalizedString("Bill", comment: "This is the bill amnt"), attributes: [NSForegroundColorAttributeName: UIColor.white])
     }
 
     override func didReceiveMemoryWarning() {

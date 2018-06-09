@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Tippy
+
+  Created by Malvern Madondo on 6/8/18.
+  Copyright © 2018 Malvern Madondo. All rights reserved.
+*/
+
+"Settings" = "Settings";
+"Tip Calculator" = "Tip Calculator";
+"Bill" = "Bill";
+"Tip" = "Tip";
+"Total" = "Total";
+"Number of People" = "Number of People";
+"You Pay" = "You Pay";
+"Tip Percentage" = "Tip Percentage";
+"Currency" = "Currency";

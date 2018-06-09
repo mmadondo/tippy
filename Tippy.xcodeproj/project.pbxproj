@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		197AEDA820CB869600B66A74 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 197AEDA720CB869600B66A74 /* Localizable.strings */; };
+		197AEDA920CB87D400B66A74 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 197AEDAB20CB87D400B66A74 /* Localizable.strings */; };
 		198550461FAE45CE00E9BAE0 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 198550451FAE45CE00E9BAE0 /* SettingsViewController.swift */; };
 		1D1EAF95F28277639BBD8601 /* Pods_Tippy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97C49287628827DA533F1739 /* Pods_Tippy.framework */; };
 		2021FE6D95427E426B9C5AB2 /* Pods_TippyTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 317DC9D822AB38D300235AA0 /* Pods_TippyTests.framework */; };
@@ -42,7 +42,8 @@
 		1197DF97ACD5F4197D50123E /* Pods_TippyUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TippyUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		197AEDA520CB85FD00B66A74 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
 		197AEDA620CB85FD00B66A74 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
-		197AEDA720CB869600B66A74 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		197AEDAA20CB87D400B66A74 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		197AEDAC20CB87D700B66A74 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		198550451FAE45CE00E9BAE0 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		20C35379C85B63E32573D1B9 /* Pods-TippyTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TippyTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TippyTests/Pods-TippyTests.debug.xcconfig"; sourceTree = "<group>"; };
 		317DC9D822AB38D300235AA0 /* Pods_TippyTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TippyTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -127,7 +128,7 @@
 				46A59CE81EF9BCCB00EE5CAE /* Assets.xcassets */,
 				46A59CEA1EF9BCCB00EE5CAE /* LaunchScreen.storyboard */,
 				46A59CED1EF9BCCB00EE5CAE /* Info.plist */,
-				197AEDA720CB869600B66A74 /* Localizable.strings */,
+				197AEDAB20CB87D400B66A74 /* Localizable.strings */,
 			);
 			path = Tippy;
 			sourceTree = "<group>";
@@ -274,6 +275,7 @@
 			knownRegions = (
 				en,
 				Base,
+				es,
 			);
 			mainGroup = 46A59CD51EF9BCCB00EE5CAE;
 			productRefGroup = 46A59CDF1EF9BCCB00EE5CAE /* Products */;
@@ -293,7 +295,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				46A59CEC1EF9BCCB00EE5CAE /* LaunchScreen.storyboard in Resources */,
-				197AEDA820CB869600B66A74 /* Localizable.strings in Resources */,
+				197AEDA920CB87D400B66A74 /* Localizable.strings in Resources */,
 				46A59CE91EF9BCCB00EE5CAE /* Assets.xcassets in Resources */,
 				46A59CE71EF9BCCB00EE5CAE /* Main.storyboard in Resources */,
 			);
@@ -496,6 +498,15 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		197AEDAB20CB87D400B66A74 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				197AEDAA20CB87D400B66A74 /* en */,
+				197AEDAC20CB87D700B66A74 /* es */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 		46A59CE51EF9BCCB00EE5CAE /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
